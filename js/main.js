@@ -14,4 +14,3 @@ function invParola(str) {
 
 
 
-/*********pariOdispari**********/
